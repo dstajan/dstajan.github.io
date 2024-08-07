@@ -6822,7 +6822,7 @@
 			"startTime": "1722862800000",
 			"endTime": "1724443200000",
 			"workPeriod": "Daily",
-			"expired": 0,
+			"expired": 1,
 			"signing": null,
 			"notification": null,
 			"workEventType": null,
