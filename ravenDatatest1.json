@@ -1,0 +1,32 @@
+[
+	{
+		"raven_uuid": "46b4f0d692fe4d18a902b8de48e10a74",
+		"segment_id": 4745,
+		"timestamp": 1716031568,
+		"media_url": "https://..../image_road_1716031568_media_533326.jpg",
+		"raw_position": {
+			"lat": 45.42782972222222,
+			"lon": -75.62753277777778,
+			"alt": 77.0
+		},
+		"speed": 28.0,
+		"labels": [
+			"construction"
+		]
+	},
+	{
+		"raven_uuid": "46b4f0d692fe4d18a902b8de48e10a74",
+		"segment_id": 4745,
+		"timestamp": 1716031950,
+		"media_url": "https://..../image_road_1716031950_media_533429.jpg",
+		"raw_position": {
+			"lat": 45.403713055555559,
+			"lon": -75.70723722222222,
+			"alt": 70.0
+		},
+		"speed": 95.0,
+		"labels": [
+			"construction"
+		]
+	}
+]
