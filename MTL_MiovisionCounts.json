@@ -7,9 +7,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T00:15:00-04:00",
+   "timestamp": "2025-10-02T00:15:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -19,9 +19,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T00:32:00-04:00",
+   "timestamp": "2025-10-02T00:32:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -31,9 +31,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T00:52:00-04:00",
+   "timestamp": "2025-10-02T00:52:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -43,9 +43,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T01:06:00-04:00",
+   "timestamp": "2025-10-02T01:06:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -55,9 +55,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T01:07:00-04:00",
+   "timestamp": "2025-10-02T01:07:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -67,9 +67,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T01:30:00-04:00",
+   "timestamp": "2025-10-02T01:30:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -79,9 +79,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T02:00:00-04:00",
+   "timestamp": "2025-10-02T02:00:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -91,9 +91,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T02:07:00-04:00",
+   "timestamp": "2025-10-02T02:07:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -103,9 +103,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T03:06:00-04:00",
+   "timestamp": "2025-10-02T03:06:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -115,9 +115,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T03:54:00-04:00",
+   "timestamp": "2025-10-02T03:54:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -127,9 +127,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "LP",
-   "timestamp": "2025-10-02T04:23:00-04:00",
+   "timestamp": "2025-10-02T04:23:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -139,9 +139,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "FP",
-   "timestamp": "2025-10-02T04:27:00-04:00",
+   "timestamp": "2025-10-02T04:27:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -151,9 +151,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T04:31:00-04:00",
+   "timestamp": "2025-10-02T04:31:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -163,9 +163,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T04:40:00-04:00",
+   "timestamp": "2025-10-02T04:40:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -175,9 +175,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T04:46:00-04:00",
+   "timestamp": "2025-10-02T04:46:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -187,9 +187,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T04:57:00-04:00",
+   "timestamp": "2025-10-02T04:57:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -199,9 +199,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "F",
-   "timestamp": "2025-10-02T05:12:00-04:00",
+   "timestamp": "2025-10-02T05:12:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -211,9 +211,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T05:16:00-04:00",
+   "timestamp": "2025-10-02T05:16:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -223,9 +223,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T05:20:00-04:00",
+   "timestamp": "2025-10-02T05:20:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -235,9 +235,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T05:28:00-04:00",
+   "timestamp": "2025-10-02T05:28:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -247,9 +247,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T05:43:00-04:00",
+   "timestamp": "2025-10-02T05:43:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -259,9 +259,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T05:52:00-04:00",
+   "timestamp": "2025-10-02T05:52:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -271,9 +271,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T06:03:00-04:00",
+   "timestamp": "2025-10-02T06:03:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -283,9 +283,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T06:03:00-04:00",
+   "timestamp": "2025-10-02T06:03:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -295,9 +295,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T06:03:00-04:00",
+   "timestamp": "2025-10-02T06:03:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -307,9 +307,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T06:08:00-04:00",
+   "timestamp": "2025-10-02T06:08:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -319,9 +319,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "MB",
-   "timestamp": "2025-10-02T06:09:00-04:00",
+   "timestamp": "2025-10-02T06:09:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -331,9 +331,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CR",
-   "timestamp": "2025-10-02T06:10:00-04:00",
+   "timestamp": "2025-10-02T06:10:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -343,9 +343,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CC",
-   "timestamp": "2025-10-02T06:12:00-04:00",
+   "timestamp": "2025-10-02T06:12:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -355,9 +355,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T06:15:00-04:00",
+   "timestamp": "2025-10-02T06:15:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -367,9 +367,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T06:20:00-04:00",
+   "timestamp": "2025-10-02T06:20:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -379,9 +379,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T06:22:00-04:00",
+   "timestamp": "2025-10-02T06:22:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -391,9 +391,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CB",
-   "timestamp": "2025-10-02T06:24:00-04:00",
+   "timestamp": "2025-10-02T06:24:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -403,9 +403,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T06:30:00-04:00",
+   "timestamp": "2025-10-02T06:30:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -415,9 +415,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T06:30:00-04:00",
+   "timestamp": "2025-10-02T06:30:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -427,9 +427,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T06:31:00-04:00",
+   "timestamp": "2025-10-02T06:31:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -439,9 +439,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T06:31:00-04:00",
+   "timestamp": "2025-10-02T06:31:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -451,9 +451,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T06:42:00-04:00",
+   "timestamp": "2025-10-02T06:42:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -463,9 +463,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T06:52:00-04:00",
+   "timestamp": "2025-10-02T06:52:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -475,9 +475,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T07:07:00-04:00",
+   "timestamp": "2025-10-02T07:07:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -487,9 +487,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "FP",
-   "timestamp": "2025-10-02T07:08:00-04:00",
+   "timestamp": "2025-10-02T07:08:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -499,9 +499,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "C",
-   "timestamp": "2025-10-02T07:10:00-04:00",
+   "timestamp": "2025-10-02T07:10:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -511,9 +511,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CR",
-   "timestamp": "2025-10-02T07:10:00-04:00",
+   "timestamp": "2025-10-02T07:10:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -523,9 +523,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T07:13:00-04:00",
+   "timestamp": "2025-10-02T07:13:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -535,9 +535,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T07:13:00-04:00",
+   "timestamp": "2025-10-02T07:13:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -547,9 +547,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T07:14:00-04:00",
+   "timestamp": "2025-10-02T07:14:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -559,9 +559,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T07:19:00-04:00",
+   "timestamp": "2025-10-02T07:19:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -571,9 +571,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "F",
-   "timestamp": "2025-10-02T07:21:00-04:00",
+   "timestamp": "2025-10-02T07:21:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -583,9 +583,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T07:26:00-04:00",
+   "timestamp": "2025-10-02T07:26:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -595,9 +595,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T07:29:00-04:00",
+   "timestamp": "2025-10-02T07:29:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -607,9 +607,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "F",
-   "timestamp": "2025-10-02T07:29:00-04:00",
+   "timestamp": "2025-10-02T07:29:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -619,9 +619,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T07:32:00-04:00",
+   "timestamp": "2025-10-02T07:32:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -631,9 +631,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T07:35:00-04:00",
+   "timestamp": "2025-10-02T07:35:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -643,9 +643,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T07:39:00-04:00",
+   "timestamp": "2025-10-02T07:39:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -655,9 +655,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "FP",
-   "timestamp": "2025-10-02T07:45:00-04:00",
+   "timestamp": "2025-10-02T07:45:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -667,9 +667,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T07:47:00-04:00",
+   "timestamp": "2025-10-02T07:47:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -679,9 +679,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T07:55:00-04:00",
+   "timestamp": "2025-10-02T07:55:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -691,9 +691,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T08:09:00-04:00",
+   "timestamp": "2025-10-02T08:09:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -703,9 +703,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T08:10:00-04:00",
+   "timestamp": "2025-10-02T08:10:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -715,9 +715,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T08:14:00-04:00",
+   "timestamp": "2025-10-02T08:14:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -727,9 +727,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T08:18:00-04:00",
+   "timestamp": "2025-10-02T08:18:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -739,9 +739,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T08:18:00-04:00",
+   "timestamp": "2025-10-02T08:18:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -751,9 +751,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T08:22:00-04:00",
+   "timestamp": "2025-10-02T08:22:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -763,9 +763,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "F",
-   "timestamp": "2025-10-02T08:30:00-04:00",
+   "timestamp": "2025-10-02T08:30:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -775,9 +775,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T08:30:00-04:00",
+   "timestamp": "2025-10-02T08:30:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -787,9 +787,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T08:36:00-04:00",
+   "timestamp": "2025-10-02T08:36:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -799,9 +799,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T08:39:00-04:00",
+   "timestamp": "2025-10-02T08:39:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -811,9 +811,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T08:54:00-04:00",
+   "timestamp": "2025-10-02T08:54:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -823,9 +823,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T09:00:00-04:00",
+   "timestamp": "2025-10-02T09:00:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -835,9 +835,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T09:01:00-04:00",
+   "timestamp": "2025-10-02T09:01:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -847,9 +847,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T09:02:00-04:00",
+   "timestamp": "2025-10-02T09:02:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -859,9 +859,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "L",
-   "timestamp": "2025-10-02T09:02:00-04:00",
+   "timestamp": "2025-10-02T09:02:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -871,9 +871,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T09:06:00-04:00",
+   "timestamp": "2025-10-02T09:06:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -883,9 +883,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CR",
-   "timestamp": "2025-10-02T09:14:00-04:00",
+   "timestamp": "2025-10-02T09:14:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -895,9 +895,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T09:21:00-04:00",
+   "timestamp": "2025-10-02T09:21:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -907,9 +907,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T09:31:00-04:00",
+   "timestamp": "2025-10-02T09:31:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -919,9 +919,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T09:36:00-04:00",
+   "timestamp": "2025-10-02T09:36:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -931,9 +931,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T09:39:00-04:00",
+   "timestamp": "2025-10-02T09:39:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -943,9 +943,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T09:40:00-04:00",
+   "timestamp": "2025-10-02T09:40:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -955,9 +955,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T09:48:00-04:00",
+   "timestamp": "2025-10-02T09:48:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -967,9 +967,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CC",
-   "timestamp": "2025-10-02T09:50:00-04:00",
+   "timestamp": "2025-10-02T09:50:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -979,9 +979,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T09:54:00-04:00",
+   "timestamp": "2025-10-02T09:54:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -991,9 +991,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T09:56:00-04:00",
+   "timestamp": "2025-10-02T09:56:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1003,9 +1003,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T10:10:00-04:00",
+   "timestamp": "2025-10-02T10:10:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1015,9 +1015,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T10:14:00-04:00",
+   "timestamp": "2025-10-02T10:14:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1027,9 +1027,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T10:32:00-04:00",
+   "timestamp": "2025-10-02T10:32:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1039,9 +1039,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T10:39:00-04:00",
+   "timestamp": "2025-10-02T10:39:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1051,9 +1051,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T10:43:00-04:00",
+   "timestamp": "2025-10-02T10:43:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1063,9 +1063,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "C",
-   "timestamp": "2025-10-02T10:44:00-04:00",
+   "timestamp": "2025-10-02T10:44:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1075,9 +1075,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T10:49:00-04:00",
+   "timestamp": "2025-10-02T10:49:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1087,9 +1087,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T10:53:00-04:00",
+   "timestamp": "2025-10-02T10:53:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1099,9 +1099,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T10:59:00-04:00",
+   "timestamp": "2025-10-02T10:59:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1111,9 +1111,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T11:01:00-04:00",
+   "timestamp": "2025-10-02T11:01:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1123,9 +1123,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T11:01:00-04:00",
+   "timestamp": "2025-10-02T11:01:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1135,9 +1135,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CC",
-   "timestamp": "2025-10-02T11:14:00-04:00",
+   "timestamp": "2025-10-02T11:14:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1147,9 +1147,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T11:15:00-04:00",
+   "timestamp": "2025-10-02T11:15:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1159,9 +1159,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T11:16:00-04:00",
+   "timestamp": "2025-10-02T11:16:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1171,9 +1171,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T11:18:00-04:00",
+   "timestamp": "2025-10-02T11:18:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1183,9 +1183,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "FP",
-   "timestamp": "2025-10-02T11:19:00-04:00",
+   "timestamp": "2025-10-02T11:19:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1195,9 +1195,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T11:19:00-04:00",
+   "timestamp": "2025-10-02T11:19:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1207,9 +1207,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T11:30:00-04:00",
+   "timestamp": "2025-10-02T11:30:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1219,9 +1219,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T11:33:00-04:00",
+   "timestamp": "2025-10-02T11:33:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1231,9 +1231,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "LP",
-   "timestamp": "2025-10-02T11:36:00-04:00",
+   "timestamp": "2025-10-02T11:36:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1243,9 +1243,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "FP",
-   "timestamp": "2025-10-02T11:40:00-04:00",
+   "timestamp": "2025-10-02T11:40:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1255,9 +1255,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T11:43:00-04:00",
+   "timestamp": "2025-10-02T11:43:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1267,9 +1267,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T11:46:00-04:00",
+   "timestamp": "2025-10-02T11:46:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1279,9 +1279,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T11:51:00-04:00",
+   "timestamp": "2025-10-02T11:51:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1291,9 +1291,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T11:54:00-04:00",
+   "timestamp": "2025-10-02T11:54:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1303,9 +1303,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T11:58:00-04:00",
+   "timestamp": "2025-10-02T11:58:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1315,9 +1315,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T12:05:00-04:00",
+   "timestamp": "2025-10-02T12:05:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1327,9 +1327,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T12:13:00-04:00",
+   "timestamp": "2025-10-02T12:13:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1339,9 +1339,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T12:17:00-04:00",
+   "timestamp": "2025-10-02T12:17:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1351,9 +1351,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T12:18:00-04:00",
+   "timestamp": "2025-10-02T12:18:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1363,9 +1363,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T12:20:00-04:00",
+   "timestamp": "2025-10-02T12:20:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1375,9 +1375,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T12:23:00-04:00",
+   "timestamp": "2025-10-02T12:23:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1387,9 +1387,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T12:30:00-04:00",
+   "timestamp": "2025-10-02T12:30:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1399,9 +1399,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T12:34:00-04:00",
+   "timestamp": "2025-10-02T12:34:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1411,9 +1411,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T12:35:00-04:00",
+   "timestamp": "2025-10-02T12:35:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1423,9 +1423,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T12:37:00-04:00",
+   "timestamp": "2025-10-02T12:37:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1435,9 +1435,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T12:38:00-04:00",
+   "timestamp": "2025-10-02T12:38:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1447,9 +1447,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T12:57:00-04:00",
+   "timestamp": "2025-10-02T12:57:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1459,9 +1459,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T13:01:00-04:00",
+   "timestamp": "2025-10-02T13:01:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1471,9 +1471,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T13:03:00-04:00",
+   "timestamp": "2025-10-02T13:03:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1483,9 +1483,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "FP",
-   "timestamp": "2025-10-02T13:03:00-04:00",
+   "timestamp": "2025-10-02T13:03:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1495,9 +1495,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T13:19:00-04:00",
+   "timestamp": "2025-10-02T13:19:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1507,9 +1507,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T13:23:00-04:00",
+   "timestamp": "2025-10-02T13:23:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1519,9 +1519,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "C",
-   "timestamp": "2025-10-02T13:23:00-04:00",
+   "timestamp": "2025-10-02T13:23:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1531,9 +1531,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T13:31:00-04:00",
+   "timestamp": "2025-10-02T13:31:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1543,9 +1543,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T13:47:00-04:00",
+   "timestamp": "2025-10-02T13:47:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1555,9 +1555,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T13:47:00-04:00",
+   "timestamp": "2025-10-02T13:47:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1567,9 +1567,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T13:48:00-04:00",
+   "timestamp": "2025-10-02T13:48:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1579,9 +1579,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T13:49:00-04:00",
+   "timestamp": "2025-10-02T13:49:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1591,9 +1591,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T13:51:00-04:00",
+   "timestamp": "2025-10-02T13:51:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1603,9 +1603,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T13:52:00-04:00",
+   "timestamp": "2025-10-02T13:52:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1615,9 +1615,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T13:56:00-04:00",
+   "timestamp": "2025-10-02T13:56:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1627,9 +1627,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T14:06:00-04:00",
+   "timestamp": "2025-10-02T14:06:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1639,9 +1639,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T14:09:00-04:00",
+   "timestamp": "2025-10-02T14:09:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1651,9 +1651,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T14:18:00-04:00",
+   "timestamp": "2025-10-02T14:18:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1663,9 +1663,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T14:21:00-04:00",
+   "timestamp": "2025-10-02T14:21:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1675,9 +1675,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "F",
-   "timestamp": "2025-10-02T14:23:00-04:00",
+   "timestamp": "2025-10-02T14:23:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1687,9 +1687,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T14:27:00-04:00",
+   "timestamp": "2025-10-02T14:27:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1699,9 +1699,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T14:27:00-04:00",
+   "timestamp": "2025-10-02T14:27:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1711,9 +1711,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T14:29:00-04:00",
+   "timestamp": "2025-10-02T14:29:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1723,9 +1723,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T14:33:00-04:00",
+   "timestamp": "2025-10-02T14:33:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1735,9 +1735,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T14:34:00-04:00",
+   "timestamp": "2025-10-02T14:34:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1747,9 +1747,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T14:43:00-04:00",
+   "timestamp": "2025-10-02T14:43:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1759,9 +1759,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T14:51:00-04:00",
+   "timestamp": "2025-10-02T14:51:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1771,9 +1771,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T14:54:00-04:00",
+   "timestamp": "2025-10-02T14:54:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1783,9 +1783,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T14:56:00-04:00",
+   "timestamp": "2025-10-02T14:56:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1795,9 +1795,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T15:07:00-04:00",
+   "timestamp": "2025-10-02T15:07:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1807,9 +1807,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T15:07:00-04:00",
+   "timestamp": "2025-10-02T15:07:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1819,9 +1819,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T15:22:00-04:00",
+   "timestamp": "2025-10-02T15:22:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1831,9 +1831,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T15:24:00-04:00",
+   "timestamp": "2025-10-02T15:24:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1843,9 +1843,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T15:34:00-04:00",
+   "timestamp": "2025-10-02T15:34:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1855,9 +1855,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T15:37:00-04:00",
+   "timestamp": "2025-10-02T15:37:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1867,9 +1867,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T15:47:00-04:00",
+   "timestamp": "2025-10-02T15:47:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1879,9 +1879,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T15:53:00-04:00",
+   "timestamp": "2025-10-02T15:53:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1891,9 +1891,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T15:55:00-04:00",
+   "timestamp": "2025-10-02T15:55:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1903,9 +1903,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T15:57:00-04:00",
+   "timestamp": "2025-10-02T15:57:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1915,9 +1915,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T15:58:00-04:00",
+   "timestamp": "2025-10-02T15:58:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1927,9 +1927,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T16:04:00-04:00",
+   "timestamp": "2025-10-02T16:04:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1939,9 +1939,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T16:11:00-04:00",
+   "timestamp": "2025-10-02T16:11:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1951,9 +1951,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T16:17:00-04:00",
+   "timestamp": "2025-10-02T16:17:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1963,9 +1963,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T16:18:00-04:00",
+   "timestamp": "2025-10-02T16:18:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1975,9 +1975,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T16:22:00-04:00",
+   "timestamp": "2025-10-02T16:22:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1987,9 +1987,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T16:24:00-04:00",
+   "timestamp": "2025-10-02T16:24:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -1999,9 +1999,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T16:41:00-04:00",
+   "timestamp": "2025-10-02T16:41:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2011,9 +2011,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T16:45:00-04:00",
+   "timestamp": "2025-10-02T16:45:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2023,9 +2023,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T16:45:00-04:00",
+   "timestamp": "2025-10-02T16:45:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2035,9 +2035,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T16:52:00-04:00",
+   "timestamp": "2025-10-02T16:52:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2047,9 +2047,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T16:57:00-04:00",
+   "timestamp": "2025-10-02T16:57:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2059,9 +2059,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T16:57:00-04:00",
+   "timestamp": "2025-10-02T16:57:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2071,9 +2071,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T17:00:00-04:00",
+   "timestamp": "2025-10-02T17:00:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2083,9 +2083,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T17:01:00-04:00",
+   "timestamp": "2025-10-02T17:01:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2095,9 +2095,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T17:11:00-04:00",
+   "timestamp": "2025-10-02T17:11:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2107,9 +2107,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T17:14:00-04:00",
+   "timestamp": "2025-10-02T17:14:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2119,9 +2119,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T17:21:00-04:00",
+   "timestamp": "2025-10-02T17:21:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2131,9 +2131,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T17:21:00-04:00",
+   "timestamp": "2025-10-02T17:21:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2143,9 +2143,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T17:22:00-04:00",
+   "timestamp": "2025-10-02T17:22:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2155,9 +2155,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T17:32:00-04:00",
+   "timestamp": "2025-10-02T17:32:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2167,9 +2167,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T17:33:00-04:00",
+   "timestamp": "2025-10-02T17:33:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2179,9 +2179,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T17:36:00-04:00",
+   "timestamp": "2025-10-02T17:36:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2191,9 +2191,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T17:38:00-04:00",
+   "timestamp": "2025-10-02T17:38:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2203,9 +2203,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T17:49:00-04:00",
+   "timestamp": "2025-10-02T17:49:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2215,9 +2215,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T17:58:00-04:00",
+   "timestamp": "2025-10-02T17:58:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2227,9 +2227,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T18:03:00-04:00",
+   "timestamp": "2025-10-02T18:03:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2239,9 +2239,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T18:04:00-04:00",
+   "timestamp": "2025-10-02T18:04:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2251,9 +2251,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T18:04:00-04:00",
+   "timestamp": "2025-10-02T18:04:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2263,9 +2263,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T18:14:00-04:00",
+   "timestamp": "2025-10-02T18:14:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2275,9 +2275,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T18:15:00-04:00",
+   "timestamp": "2025-10-02T18:15:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2287,9 +2287,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T18:27:00-04:00",
+   "timestamp": "2025-10-02T18:27:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2299,9 +2299,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T18:34:00-04:00",
+   "timestamp": "2025-10-02T18:34:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2311,9 +2311,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T18:36:00-04:00",
+   "timestamp": "2025-10-02T18:36:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2323,9 +2323,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T18:37:00-04:00",
+   "timestamp": "2025-10-02T18:37:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2335,9 +2335,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T18:38:00-04:00",
+   "timestamp": "2025-10-02T18:38:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2347,9 +2347,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "F",
-   "timestamp": "2025-10-02T18:43:00-04:00",
+   "timestamp": "2025-10-02T18:43:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2359,9 +2359,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T18:45:00-04:00",
+   "timestamp": "2025-10-02T18:45:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2371,9 +2371,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T18:47:00-04:00",
+   "timestamp": "2025-10-02T18:47:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2383,9 +2383,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T18:55:00-04:00",
+   "timestamp": "2025-10-02T18:55:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2395,9 +2395,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T19:03:00-04:00",
+   "timestamp": "2025-10-02T19:03:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2407,9 +2407,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T19:08:00-04:00",
+   "timestamp": "2025-10-02T19:08:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2419,9 +2419,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T19:16:00-04:00",
+   "timestamp": "2025-10-02T19:16:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2431,9 +2431,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T19:26:00-04:00",
+   "timestamp": "2025-10-02T19:26:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2443,9 +2443,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T19:28:00-04:00",
+   "timestamp": "2025-10-02T19:28:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2455,9 +2455,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T19:29:00-04:00",
+   "timestamp": "2025-10-02T19:29:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2467,9 +2467,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T19:47:00-04:00",
+   "timestamp": "2025-10-02T19:47:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2479,9 +2479,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T19:57:00-04:00",
+   "timestamp": "2025-10-02T19:57:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2491,9 +2491,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T20:00:00-04:00",
+   "timestamp": "2025-10-02T20:00:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2503,9 +2503,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T20:02:00-04:00",
+   "timestamp": "2025-10-02T20:02:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2515,9 +2515,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T20:03:00-04:00",
+   "timestamp": "2025-10-02T20:03:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2527,9 +2527,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T20:11:00-04:00",
+   "timestamp": "2025-10-02T20:11:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2539,9 +2539,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T20:13:00-04:00",
+   "timestamp": "2025-10-02T20:13:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2551,9 +2551,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T20:15:00-04:00",
+   "timestamp": "2025-10-02T20:15:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2563,9 +2563,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T20:22:00-04:00",
+   "timestamp": "2025-10-02T20:22:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2575,9 +2575,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T20:31:00-04:00",
+   "timestamp": "2025-10-02T20:31:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2587,9 +2587,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T20:31:00-04:00",
+   "timestamp": "2025-10-02T20:31:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2599,9 +2599,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T20:34:00-04:00",
+   "timestamp": "2025-10-02T20:34:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2611,9 +2611,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T20:47:00-04:00",
+   "timestamp": "2025-10-02T20:47:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2623,9 +2623,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T20:48:00-04:00",
+   "timestamp": "2025-10-02T20:48:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2635,9 +2635,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "L",
-   "timestamp": "2025-10-02T21:00:00-04:00",
+   "timestamp": "2025-10-02T21:00:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2647,9 +2647,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T21:02:00-04:00",
+   "timestamp": "2025-10-02T21:02:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2659,9 +2659,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T21:08:00-04:00",
+   "timestamp": "2025-10-02T21:08:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2671,9 +2671,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T21:10:00-04:00",
+   "timestamp": "2025-10-02T21:10:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2683,9 +2683,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T21:19:00-04:00",
+   "timestamp": "2025-10-02T21:19:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2695,9 +2695,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T21:20:00-04:00",
+   "timestamp": "2025-10-02T21:20:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2707,9 +2707,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T21:24:00-04:00",
+   "timestamp": "2025-10-02T21:24:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2719,9 +2719,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "A",
-   "timestamp": "2025-10-02T21:25:00-04:00",
+   "timestamp": "2025-10-02T21:25:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 3
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2731,9 +2731,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T21:34:00-04:00",
+   "timestamp": "2025-10-02T21:34:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2743,9 +2743,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T21:34:00-04:00",
+   "timestamp": "2025-10-02T21:34:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2755,9 +2755,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T21:51:00-04:00",
+   "timestamp": "2025-10-02T21:51:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2767,9 +2767,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T21:56:00-04:00",
+   "timestamp": "2025-10-02T21:56:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2779,9 +2779,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T21:59:00-04:00",
+   "timestamp": "2025-10-02T21:59:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2791,9 +2791,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T22:03:00-04:00",
+   "timestamp": "2025-10-02T22:03:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2803,9 +2803,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "MB",
-   "timestamp": "2025-10-02T22:11:00-04:00",
+   "timestamp": "2025-10-02T22:11:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2815,9 +2815,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T22:19:00-04:00",
+   "timestamp": "2025-10-02T22:19:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2827,9 +2827,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T22:10:00-04:00",
+   "timestamp": "2025-10-02T22:10:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2839,9 +2839,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T22:31:00-04:00",
+   "timestamp": "2025-10-02T22:31:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2851,9 +2851,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T22:36:00-04:00",
+   "timestamp": "2025-10-02T22:36:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2863,9 +2863,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T22:51:00-04:00",
+   "timestamp": "2025-10-02T22:51:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2875,9 +2875,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T22:58:00-04:00",
+   "timestamp": "2025-10-02T22:58:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2887,9 +2887,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T23:12:00-04:00",
+   "timestamp": "2025-10-02T23:12:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2899,9 +2899,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T23:18:00-04:00",
+   "timestamp": "2025-10-02T23:18:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2911,9 +2911,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T23:21:00-04:00",
+   "timestamp": "2025-10-02T23:21:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2923,9 +2923,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "MB",
-   "timestamp": "2025-10-02T23:22:00-04:00",
+   "timestamp": "2025-10-02T23:22:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2935,9 +2935,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T23:44:00-04:00",
+   "timestamp": "2025-10-02T23:44:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2947,9 +2947,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "LP",
-   "timestamp": "2025-10-02T23:46:00-04:00",
+   "timestamp": "2025-10-02T23:46:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2959,9 +2959,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "B",
-   "timestamp": "2025-10-02T23:50:00-04:00",
+   "timestamp": "2025-10-02T23:50:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 1
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2971,9 +2971,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "A",
-   "timestamp": "2025-10-02T23:57:00-04:00",
+   "timestamp": "2025-10-02T23:57:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 2
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2983,9 +2983,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T00:00:00-04:00",
+   "timestamp": "2025-10-02T00:00:00.000-4:00",
    "qty": 14,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -2995,9 +2995,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T00:00:00-04:00",
+   "timestamp": "2025-10-02T00:00:00.000-4:00",
    "qty": 22,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3007,9 +3007,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T01:00:00-04:00",
+   "timestamp": "2025-10-02T01:00:00.000-4:00",
    "qty": 6,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3019,9 +3019,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T01:00:00-04:00",
+   "timestamp": "2025-10-02T01:00:00.000-4:00",
    "qty": 5,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3031,9 +3031,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T02:00:00-04:00",
+   "timestamp": "2025-10-02T02:00:00.000-4:00",
    "qty": 4,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3043,9 +3043,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T02:00:00-04:00",
+   "timestamp": "2025-10-02T02:00:00.000-4:00",
    "qty": 4,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3055,9 +3055,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T03:00:00-04:00",
+   "timestamp": "2025-10-02T03:00:00.000-4:00",
    "qty": 3,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3067,9 +3067,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T03:00:00-04:00",
+   "timestamp": "2025-10-02T03:00:00.000-4:00",
    "qty": 1,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3079,9 +3079,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T04:00:00-04:00",
+   "timestamp": "2025-10-02T04:00:00.000-4:00",
    "qty": 11,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3091,9 +3091,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T04:00:00-04:00",
+   "timestamp": "2025-10-02T04:00:00.000-4:00",
    "qty": 4,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3103,9 +3103,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T05:00:00-04:00",
+   "timestamp": "2025-10-02T05:00:00.000-4:00",
    "qty": 39,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3115,9 +3115,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T05:00:00-04:00",
+   "timestamp": "2025-10-02T05:00:00.000-4:00",
    "qty": 7,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3127,9 +3127,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T06:00:00-04:00",
+   "timestamp": "2025-10-02T06:00:00.000-4:00",
    "qty": 74,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3139,9 +3139,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T06:00:00-04:00",
+   "timestamp": "2025-10-02T06:00:00.000-4:00",
    "qty": 21,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3151,9 +3151,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T07:00:00-04:00",
+   "timestamp": "2025-10-02T07:00:00.000-4:00",
    "qty": 248,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3163,9 +3163,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T07:00:00-04:00",
+   "timestamp": "2025-10-02T07:00:00.000-4:00",
    "qty": 80,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3175,9 +3175,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T08:00:00-04:00",
+   "timestamp": "2025-10-02T08:00:00.000-4:00",
    "qty": 538,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3187,9 +3187,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T08:00:00-04:00",
+   "timestamp": "2025-10-02T08:00:00.000-4:00",
    "qty": 151,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3199,9 +3199,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T09:00:00-04:00",
+   "timestamp": "2025-10-02T09:00:00.000-4:00",
    "qty": 354,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3211,9 +3211,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T09:00:00-04:00",
+   "timestamp": "2025-10-02T09:00:00.000-4:00",
    "qty": 92,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3223,9 +3223,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T10:00:00-04:00",
+   "timestamp": "2025-10-02T10:00:00.000-4:00",
    "qty": 148,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3235,9 +3235,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T10:00:00-04:00",
+   "timestamp": "2025-10-02T10:00:00.000-4:00",
    "qty": 80,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3247,9 +3247,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T11:00:00-04:00",
+   "timestamp": "2025-10-02T11:00:00.000-4:00",
    "qty": 136,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3259,9 +3259,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T11:00:00-04:00",
+   "timestamp": "2025-10-02T11:00:00.000-4:00",
    "qty": 109,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3271,9 +3271,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T12:00:00-04:00",
+   "timestamp": "2025-10-02T12:00:00.000-4:00",
    "qty": 165,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3283,9 +3283,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T12:00:00-04:00",
+   "timestamp": "2025-10-02T12:00:00.000-4:00",
    "qty": 157,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3295,9 +3295,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T13:00:00-04:00",
+   "timestamp": "2025-10-02T13:00:00.000-4:00",
    "qty": 189,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3307,9 +3307,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T13:00:00-04:00",
+   "timestamp": "2025-10-02T13:00:00.000-4:00",
    "qty": 177,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3319,9 +3319,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T14:00:00-04:00",
+   "timestamp": "2025-10-02T14:00:00.000-4:00",
    "qty": 145,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3331,9 +3331,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T14:00:00-04:00",
+   "timestamp": "2025-10-02T14:00:00.000-4:00",
    "qty": 130,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3343,9 +3343,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T15:00:00-04:00",
+   "timestamp": "2025-10-02T15:00:00.000-4:00",
    "qty": 188,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3355,9 +3355,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T15:00:00-04:00",
+   "timestamp": "2025-10-02T15:00:00.000-4:00",
    "qty": 218,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3367,9 +3367,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T16:00:00-04:00",
+   "timestamp": "2025-10-02T16:00:00.000-4:00",
    "qty": 227,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3379,9 +3379,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T16:00:00-04:00",
+   "timestamp": "2025-10-02T16:00:00.000-4:00",
    "qty": 384,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3391,9 +3391,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T17:00:00-04:00",
+   "timestamp": "2025-10-02T17:00:00.000-4:00",
    "qty": 365,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3403,9 +3403,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T17:00:00-04:00",
+   "timestamp": "2025-10-02T17:00:00.000-4:00",
    "qty": 510,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3415,9 +3415,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T18:00:00-04:00",
+   "timestamp": "2025-10-02T18:00:00.000-4:00",
    "qty": 228,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3427,9 +3427,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T18:00:00-04:00",
+   "timestamp": "2025-10-02T18:00:00.000-4:00",
    "qty": 318,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3439,9 +3439,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T19:00:00-04:00",
+   "timestamp": "2025-10-02T19:00:00.000-4:00",
    "qty": 142,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3451,9 +3451,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T19:00:00-04:00",
+   "timestamp": "2025-10-02T19:00:00.000-4:00",
    "qty": 190,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3463,9 +3463,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T20:00:00-04:00",
+   "timestamp": "2025-10-02T20:00:00.000-4:00",
    "qty": 96,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3475,9 +3475,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T20:00:00-04:00",
+   "timestamp": "2025-10-02T20:00:00.000-4:00",
    "qty": 163,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3487,9 +3487,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T21:00:00-04:00",
+   "timestamp": "2025-10-02T21:00:00.000-4:00",
    "qty": 75,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3499,9 +3499,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T21:00:00-04:00",
+   "timestamp": "2025-10-02T21:00:00.000-4:00",
    "qty": 146,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3511,9 +3511,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T22:00:00-04:00",
+   "timestamp": "2025-10-02T22:00:00.000-4:00",
    "qty": 59,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3523,9 +3523,9 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T22:00:00-04:00",
+   "timestamp": "2025-10-02T22:00:00.000-4:00",
    "qty": 110,
-   "laneid": ""
+   "laneid": 4
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3535,9 +3535,9 @@
    "entrance": "N",
    "exit": "N",
    "class": "CY",
-   "timestamp": "2025-10-02T23:00:00-04:00",
+   "timestamp": "2025-10-02T23:00:00.000-4:00",
    "qty": 41,
-   "laneid": ""
+   "laneid": 5
  },
  {
    "id": "MTL-GTS-VIP-1",
@@ -3547,8 +3547,1160 @@
    "entrance": "S",
    "exit": "S",
    "class": "CY",
-   "timestamp": "2025-10-02T23:00:00-04:00",
+   "timestamp": "2025-10-02T23:00:00.000-4:00",
    "qty": 46,
-   "laneid": ""
+   "laneid": 4
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T00:00:00.000-4:00",
+   "qty": 16,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T01:00:00.000-4:00",
+   "qty": 12,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T02:00:00.000-4:00",
+   "qty": 2,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T03:00:00.000-4:00",
+   "qty": 3,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T04:00:00.000-4:00",
+   "qty": 1,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T05:00:00.000-4:00",
+   "qty": 17,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T06:00:00.000-4:00",
+   "qty": 33,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T07:00:00.000-4:00",
+   "qty": 55,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T08:00:00.000-4:00",
+   "qty": 97,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T09:00:00.000-4:00",
+   "qty": 89,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T10:00:00.000-4:00",
+   "qty": 99,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T11:00:00.000-4:00",
+   "qty": 115,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T12:00:00.000-4:00",
+   "qty": 149,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T13:00:00.000-4:00",
+   "qty": 95,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T14:00:00.000-4:00",
+   "qty": 166,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T15:00:00.000-4:00",
+   "qty": 136,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T16:00:00.000-4:00",
+   "qty": 149,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T17:00:00.000-4:00",
+   "qty": 149,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T18:00:00.000-4:00",
+   "qty": 124,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T19:00:00.000-4:00",
+   "qty": 80,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T20:00:00.000-4:00",
+   "qty": 80,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T21:00:00.000-4:00",
+   "qty": 97,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T22:00:00.000-4:00",
+   "qty": 46,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "PED",
+   "timestamp": "2025-10-02T23:00:00.000-4:00",
+   "qty": 35,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T00:00:00.000-4:00",
+   "qty": 14,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T01:00:00.000-4:00",
+   "qty": 10,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T02:00:00.000-4:00",
+   "qty": 3,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T03:00:00.000-4:00",
+   "qty": 4,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T04:00:00.000-4:00",
+   "qty": 7,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T05:00:00.000-4:00",
+   "qty": 26,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T06:00:00.000-4:00",
+   "qty": 31,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T07:00:00.000-4:00",
+   "qty": 88,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T08:00:00.000-4:00",
+   "qty": 103,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T09:00:00.000-4:00",
+   "qty": 114,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T10:00:00.000-4:00",
+   "qty": 138,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T11:00:00.000-4:00",
+   "qty": 122,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T12:00:00.000-4:00",
+   "qty": 149,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T13:00:00.000-4:00",
+   "qty": 125,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T14:00:00.000-4:00",
+   "qty": 137,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T15:00:00.000-4:00",
+   "qty": 132,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T16:00:00.000-4:00",
+   "qty": 154,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T17:00:00.000-4:00",
+   "qty": 157,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T18:00:00.000-4:00",
+   "qty": 112,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T19:00:00.000-4:00",
+   "qty": 90,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T20:00:00.000-4:00",
+   "qty": 40,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T21:00:00.000-4:00",
+   "qty": 53,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T22:00:00.000-4:00",
+   "qty": 42,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "PED",
+   "timestamp": "2025-10-02T23:00:00.000-4:00",
+   "qty": 23,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T00:00:00.000-4:00",
+   "qty": 1,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T01:00:00.000-4:00",
+   "qty": 0,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T02:00:00.000-4:00",
+   "qty": 0,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T03:00:00.000-4:00",
+   "qty": 0,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T04:00:00.000-4:00",
+   "qty": 0,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T05:00:00.000-4:00",
+   "qty": 0,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T06:00:00.000-4:00",
+   "qty": 2,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T07:00:00.000-4:00",
+   "qty": 1,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T08:00:00.000-4:00",
+   "qty": 4,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T09:00:00.000-4:00",
+   "qty": 6,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T10:00:00.000-4:00",
+   "qty": 5,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T11:00:00.000-4:00",
+   "qty": 9,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T12:00:00.000-4:00",
+   "qty": 6,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T13:00:00.000-4:00",
+   "qty": 4,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T14:00:00.000-4:00",
+   "qty": 3,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T15:00:00.000-4:00",
+   "qty": 4,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T16:00:00.000-4:00",
+   "qty": 8,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T17:00:00.000-4:00",
+   "qty": 7,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T18:00:00.000-4:00",
+   "qty": 3,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T19:00:00.000-4:00",
+   "qty": 4,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T20:00:00.000-4:00",
+   "qty": 6,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T21:00:00.000-4:00",
+   "qty": 4,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T22:00:00.000-4:00",
+   "qty": 1,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "N",
+   "exit": "N",
+   "class": "CY",
+   "timestamp": "2025-10-02T23:00:00.000-4:00",
+   "qty": 4,
+   "laneid": 6
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T00:00:00.000-4:00",
+   "qty": 2,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T01:00:00.000-4:00",
+   "qty": 1,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T02:00:00.000-4:00",
+   "qty": 1,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T03:00:00.000-4:00",
+   "qty": 0,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T04:00:00.000-4:00",
+   "qty": 1,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T05:00:00.000-4:00",
+   "qty": 1,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T06:00:00.000-4:00",
+   "qty": 2,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T07:00:00.000-4:00",
+   "qty": 2,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T08:00:00.000-4:00",
+   "qty": 8,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T09:00:00.000-4:00",
+   "qty": 8,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T10:00:00.000-4:00",
+   "qty": 9,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T11:00:00.000-4:00",
+   "qty": 3,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T12:00:00.000-4:00",
+   "qty": 3,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T13:00:00.000-4:00",
+   "qty": 5,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T14:00:00.000-4:00",
+   "qty": 4,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T15:00:00.000-4:00",
+   "qty": 4,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T16:00:00.000-4:00",
+   "qty": 7,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T17:00:00.000-4:00",
+   "qty": 6,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T18:00:00.000-4:00",
+   "qty": 6,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T19:00:00.000-4:00",
+   "qty": 13,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T20:00:00.000-4:00",
+   "qty": 6,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T21:00:00.000-4:00",
+   "qty": 2,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T22:00:00.000-4:00",
+   "qty": 3,
+   "laneid": 7
+ },
+ {
+   "id": "MTL-GTS-VIP-1",
+   "name": "Montreal, CA (Rue Berri)",
+   "latitude": 45.5169274,
+   "longitude": -73.5644517,
+   "entrance": "S",
+   "exit": "S",
+   "class": "CY",
+   "timestamp": "2025-10-02T23:00:00.000-4:00",
+   "qty": 7,
+   "laneid": 7
  }
 ]
